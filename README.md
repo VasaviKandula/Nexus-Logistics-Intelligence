@@ -1,5 +1,6 @@
 # 🚚 Nexus Logistics Intelligence Hub
-<img width="416" height="446" alt="image" src="https://github.com/user-attachments/assets/3dc029f3-5738-41cf-8b4c-8f674e91dbf7" />
+
+<img width="798" height="527" alt="image" src="https://github.com/user-attachments/assets/b75a39c2-aa42-455d-a67a-3263228b19fa" />
 
 
 
