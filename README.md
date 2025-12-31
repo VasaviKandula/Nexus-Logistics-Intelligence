@@ -1,7 +1,6 @@
 # 🚚 Nexus Logistics Intelligence Hub
 
-<img width="798" height="527" alt="image" src="https://github.com/user-attachments/assets/b75a39c2-aa42-455d-a67a-3263228b19fa" />
-
+"C:\Users\vasav\OneDrive\Desktop\Nexus_Logistics_Project\dashboard_screenshot.pbix"
 
 
 ## 📊 Project Overview
