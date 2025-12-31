@@ -1,4 +1,6 @@
 # 🚚 Nexus Logistics Intelligence Hub
+<img width="950" height="551" alt="final_shot" src="https://github.com/user-attachments/assets/bf1eb764-3331-48f2-a63a-49b30785b99b" />
+
 
 
 ## 📊 Project Overview
