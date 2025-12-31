@@ -1,6 +1,7 @@
 # 🚚 Nexus Logistics Intelligence Hub
+<img width="416" height="446" alt="image" src="https://github.com/user-attachments/assets/3dc029f3-5738-41cf-8b4c-8f674e91dbf7" />
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+
 
 ## 📊 Project Overview
 This project simulates an enterprise-level Business Intelligence solution for a global logistics company. The goal was to transform raw transaction data into actionable insights regarding shipping efficiency, product profitability, and regional performance.
