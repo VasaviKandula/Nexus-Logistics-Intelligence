@@ -1,18 +1,5 @@
 # 🚚 Nexus Logistics Intelligence Hub
-[Uploading dashboard_screenshot.pbip…](){
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/pbip/pbipProperties/1.0.0/schema.json",
-  "version": "1.0",
-  "artifacts": [
-    {
-      "report": {
-        "path": "dashboard_screenshot.Report"
-      }
-    }
-  ],
-  "settings": {
-    "enableAutoRecovery": true
-  }
-}
+[Uploading dashboard_screenshot.pbip…]()
 
 
 
