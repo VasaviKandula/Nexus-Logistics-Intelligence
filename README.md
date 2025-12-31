@@ -1,5 +1,5 @@
 # 🚚 Nexus Logistics Intelligence Hub
-"C:\Users\vasav\OneDrive\Desktop\Nexus_Logistics_Project\final_shot.png" 
+
 
 ## 📊 Project Overview
 This project simulates an enterprise-level Business Intelligence solution for a global logistics company. The goal was to transform raw transaction data into actionable insights regarding shipping efficiency, product profitability, and regional performance.
